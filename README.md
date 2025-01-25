@@ -1,1 +1,2 @@
-# ai-flashcard-making-app
+# ai-flashcard-making-ap
+project "Study With Dory"
